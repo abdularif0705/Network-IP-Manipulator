@@ -1,0 +1,6 @@
+Abdul IPDetection 10 1.1.1.1 25565
+Abdul PortDetection 10 1.1.1.1 25565
+Abdul TCPFloodAttack 10 1.1.1.1 25565
+Abdul UDPFloodAttack 10 1.1.1.1 25565
+Abdul NodeLocation 10 1.1.1.1 00
+Abdul NodeLANScan 10 00 00
