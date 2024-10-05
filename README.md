@@ -4,7 +4,7 @@
 The Network-IP-Manipulator is a Python cybersecurity tool that uses multiple threads to find computers on the local network and then removes their internet access by overwhelming them with TCP or UDP packets. Its purpose is to expose and assess network protocol vulnerabilities in the structure of Wi-Fi within local area networks (LANs).
 
 ## Project Overview
-I developed this tool collaboratively with my colleague Brett as our capstone project for a Computer Networks course. This application reflects a deep dive into networking concepts and stands as a testament to the practical implementation of networking principles, bridging the gap between academic theory and real-world network security practices.
+I developed this tool with my classmate Brett as our capstone project for a Computer Networks course. This application reflects a deep dive into networking concepts and stands as a testament to the practical implementation of networking principles, bridging the gap between academic theory and real-world network security practices.
 
 ## Features
 - **IP Online Detection**: Monitors and reports the status of devices within a network.
